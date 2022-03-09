@@ -14,6 +14,8 @@ UKUI is a desktop environment for Linux distributions and other UNIX-like operat
 * ukui-menu
 * ukui-panel
 * ukui-sidebar
+* ukui-notebook
+* ukui-clock
 * ukui-media
 * ukui-greeter
 * ukui-screensaver
@@ -35,13 +37,13 @@ UKUI is a desktop environment for Linux distributions and other UNIX-like operat
 * ukui-notification-daemon
 * ukui-biometric-manager
 * ukui-system-monitor
-* libinput-touch-translator
 * biometric-authentication
 
 ### Deprecated
 * ukui-menus
 * ukui-indicators
-
+* libinput-touch-translator
+* 
 ## Install
 
 ### Ubuntu
